@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="txt_inicio"> INICIO  -  START </string>
+    <string name="app_name">Cubo Rubik All In</string>
+
+</resources>

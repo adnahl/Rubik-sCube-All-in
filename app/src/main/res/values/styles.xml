@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Ocultamos la barra de titulo Web -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- Ocultamos la ActionBar -->
+        <item name="android:windowActionBar">true</item>
+    </style>
+
+</resources>
